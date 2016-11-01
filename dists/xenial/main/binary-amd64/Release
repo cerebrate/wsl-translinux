@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: ArkaneSystems
+Label: WSL Translinux
+Architecture: amd64
+Description: WSL-specific packages hosted on cerebrate's github repository
