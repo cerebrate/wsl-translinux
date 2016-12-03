@@ -1,5 +1,5 @@
 Package: wabashd
-Version: 4
+Version: 5
 Architecture: all
 Essential: no
 Depends: mono-4.0-service (>= 4.2.1), mono-runtime (>= 4.2.1)
@@ -7,11 +7,11 @@ Maintainer: Alistair Young <avatar@arkane-systems.net>
 Installed-Size: 6
 Priority: optional
 Section: utils
-Filename: pool/main/w/wabashd/wabashd_4_all.deb
-Size: 3542
-SHA256: 240237fb4c198d528bec9fe676c3083f7e0ca1b281ef704d86c1d8c80dea86c4
-SHA1: 62c443dc76bc330ac2d6b97f0220222be71c66af
-MD5sum: dc75b8d0e9e700ce00223db3280cedb0
+Filename: pool/main/w/wabashd/wabashd_5_all.deb
+Size: 3686
+SHA256: 4c104d44bef5465bb14d90ebefa22fb092ddb27b68752acf667b901a8c2e7427
+SHA1: 298800eb3aa259a3f65545642912bc0567791ec1
+MD5sum: 82339e85b628640a603941f82e52ec88
 Description: The Windows Service for Linux portion of the wabash session-keepalive system.
 Homepage: https://github.com/cerebrate/wabashd
 
