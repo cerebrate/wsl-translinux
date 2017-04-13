@@ -8,6 +8,10 @@ To use this repository, edit your `/etc/apt/sources.list` file to contain the fo
 
 `deb https://cerebrate.github.io/wsl-translinux/ xenial main`
 
+Then run the following:
+
+`sudo apt-get update --allow-unauthenticated`
+
 After that, you can use apt-get to install packages from this repository as normal.
 
 **Note: While this is still in the early stages, and until we've established proper procedures for vetting packages, this repository is not signed and as such will produce an "untrusted packages" warning. This is expected behavior, and we'll be as careful as possible not to allow any malware in here, but please take due care.**
