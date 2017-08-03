@@ -2,7 +2,7 @@ Origin: ArkaneSystems
 Label: WSL Translinux
 Suite: stable
 Codename: xenial
-Date: Thu, 03 Aug 2017 21:41:53 UTC
+Date: Thu, 03 Aug 2017 21:59:12 UTC
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
