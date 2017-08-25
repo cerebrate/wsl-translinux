@@ -15,3 +15,20 @@ MD5sum: aad08cfd222f3efc2e5981b92f57c37f
 Description: The Windows Service for Linux portion of the wabash session-keepalive system.
 Homepage: https://github.com/cerebrate/wabashd
 
+Package: wabashd-shell
+Version: 4.0.1
+Architecture: all
+Essential: no
+Depends: bash (>= 4.3.0)
+Maintainer: Thomas <wabashd-shell@alternize.com>
+Installed-Size: 1
+Priority: optional
+Section: utils
+Filename: pool/main/w/wabashd-shell/wabashd-shell_4.0.1_all.deb
+Size: 1482
+SHA256: 092beadfee828d5f6283480aaa9b94fb7a2a0ae20ecf5e1e772f4a4a2350cebe
+SHA1: c64544c9c2505be9dcd2e3635d688b683b92a696
+MD5sum: 75b4d55109c257c3d8a5fd0595772d5a
+Description: The Windows Service for Linux portion of the wabash session-keepalive system.
+Homepage: https://github.com/alternize/wabashd-shell
+
