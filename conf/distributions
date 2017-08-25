@@ -5,3 +5,19 @@ Codename: xenial
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+
+Origin: ArkaneSystems
+Label: WSL Translinux
+Suite: stable
+Codename: zesty
+Architectures: amd64
+Components: main
+Description: WSL-specific packages hosted on cerebrate's github repository
+
+Origin: ArkaneSystems
+Label: WSL Translinux
+Suite: stable
+Codename: artful
+Architectures: amd64
+Components: main
+Description: WSL-specific packages hosted on cerebrate's github repository
