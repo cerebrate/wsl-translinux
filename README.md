@@ -2,6 +2,8 @@
 
 This is an apt repository for packages specific to the Windows Subsystem for Linux. (I.e., specifically those packages which depend on WSL- or Windows-specific functionality and as such do not run when installed over a genuine Linux kernel.)
 
+For current package list, see here: https://github.com/cerebrate/wsl-translinux/blob/gh-pages/README.md
+
 ## Usage
 
 To use this repository, add a new file (`wsl-translinux.list` might be a good name) to your `/etc/apt/sources.list.d` folder containing the following line (preferred), or else edit your `/etc/apt/sources.list` file to contain the following line:
