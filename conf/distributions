@@ -1,6 +1,5 @@
 Origin: ArkaneSystems
 Label: WSL Translinux
-Suite: stable
 Codename: xenial
 Architectures: amd64
 Components: main
@@ -9,7 +8,6 @@ SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
-Suite: stable
 Codename: zesty
 Architectures: amd64
 Components: main
@@ -18,7 +16,6 @@ SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
-Suite: stable
 Codename: artful
 Architectures: amd64
 Components: main
@@ -36,7 +33,7 @@ SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
-Suite: stable
+Suite: testing
 Codename: buster
 Architectures: amd64
 Components: main
@@ -45,7 +42,7 @@ SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
-Suite: stable
+Suite: unstable
 Codename: sid
 Architectures: amd64
 Components: main
