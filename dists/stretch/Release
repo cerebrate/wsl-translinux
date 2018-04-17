@@ -2,7 +2,7 @@ Origin: ArkaneSystems
 Label: WSL Translinux
 Suite: stable
 Codename: stretch
-Date: Tue, 17 Apr 2018 06:51:18 UTC
+Date: Tue, 17 Apr 2018 07:15:25 UTC
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository

@@ -5,6 +5,7 @@ Codename: xenial
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
@@ -13,6 +14,7 @@ Codename: zesty
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
@@ -21,6 +23,7 @@ Codename: artful
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
@@ -29,6 +32,7 @@ Codename: stretch
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
@@ -37,6 +41,7 @@ Codename: buster
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+SignWith: CDC187A02414998F
 
 Origin: ArkaneSystems
 Label: WSL Translinux
@@ -45,3 +50,4 @@ Codename: sid
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+SignWith: CDC187A02414998F
