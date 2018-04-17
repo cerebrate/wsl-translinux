@@ -1,0 +1,17 @@
+Package: wabashd-shell
+Version: 4.0.2
+Architecture: all
+Essential: no
+Depends: bash (>= 4)
+Maintainer: Thomas <wabashd-shell@alternize.com>
+Installed-Size: 1
+Priority: optional
+Section: utils
+Filename: pool/main/w/wabashd-shell/wabashd-shell_4.0.2_all.deb
+Size: 1490
+SHA256: 7c4ccce5848a708bf8b29ceebfeca54bc207c6aa744848a2814edf9f926a2453
+SHA1: c1154bb943d48d19ab247937920204d0f6c3d33b
+MD5sum: f5e6cbafa59669bd069816f77f670ced
+Description: The Windows Service for Linux portion of the wabash session-keepalive system.
+Homepage: https://github.com/alternize/wabashd-shell
+

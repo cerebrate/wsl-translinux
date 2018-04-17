@@ -21,3 +21,27 @@ Codename: artful
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
+
+Origin: ArkaneSystems
+Label: WSL Translinux
+Suite: stable
+Codename: stretch
+Architectures: amd64
+Components: main
+Description: WSL-specific packages hosted on cerebrate's github repository
+
+Origin: ArkaneSystems
+Label: WSL Translinux
+Suite: stable
+Codename: buster
+Architectures: amd64
+Components: main
+Description: WSL-specific packages hosted on cerebrate's github repository
+
+Origin: ArkaneSystems
+Label: WSL Translinux
+Suite: stable
+Codename: sid
+Architectures: amd64
+Components: main
+Description: WSL-specific packages hosted on cerebrate's github repository
