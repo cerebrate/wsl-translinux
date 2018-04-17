@@ -6,7 +6,7 @@ For current package list, see here: https://github.com/cerebrate/wsl-translinux/
 
 ## Usage
 
-To use this repository, add a new file (`wsl-translinux.list` might be a good name) to your `/etc/apt/sources.list.d` folder containing the following line (preferred), or else edit your `/etc/apt/sources.list` file to contain the following line:
+To use this repository, add a new file (`wsl-translinux.list` might be a good name) to your `/etc/apt/sources.list.d` folder containing the following line (preferred), or else edit your `/etc/apt/sources.list` file to contain the following line, changing `xenial` to your appropriate distribution codename (as shown by `lsb_release -c`):
 
 `deb https://cerebrate.github.io/wsl-translinux/ xenial main`
 
