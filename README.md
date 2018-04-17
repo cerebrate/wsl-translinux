@@ -4,17 +4,19 @@ This is an apt repository for packages specific to the Windows Subsystem for Lin
 
 ## Usage
 
-To use this repository, edit your `/etc/apt/sources.list` file to contain the following line:
+To use this repository, add a new file (`wsl-translinux.list` might be a good name) to your `/etc/apt/sources.list.d` folder containing the following line (preferred), or else edit your `/etc/apt/sources.list` file to contain the following line:
 
 `deb https://cerebrate.github.io/wsl-translinux/ xenial main`
 
+Then install the wsl-translinux.key repository signing key. You can do this with the command:
+
+`wget -qO - https://github.com/cerebrate/wsl-translinux/blob/master/wsl-translinux.key\?raw\=true | sudo apt-key add -`
+
 Then run the following:
 
-`sudo apt-get update --allow-unauthenticated`
+`sudo apt-get update`
 
 After that, you can use apt-get to install packages from this repository as normal.
-
-**Note: While this is still in the early stages, and until we've established proper procedures for vetting packages, this repository is not signed and as such will produce an "untrusted packages" warning. This is expected behavior, and we'll be as careful as possible not to allow any malware in here, but please take due care.**
 
 ## Package authors
 
