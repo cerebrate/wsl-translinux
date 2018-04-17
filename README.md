@@ -1,6 +1,6 @@
 # wsl-translinux
 
-This is an apt repository for packages specific to the Windows Subsystem for Linux.
+This is an apt repository for packages specific to the Windows Subsystem for Linux. (I.e., specifically those packages which depend on WSL- or Windows-specific functionality and as such do not run when installed over a genuine Linux kernel.)
 
 ## Usage
 
