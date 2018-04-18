@@ -32,23 +32,3 @@ MD5sum: f5e6cbafa59669bd069816f77f670ced
 Description: The Windows Service for Linux portion of the wabash session-keepalive system.
 Homepage: https://github.com/alternize/wabashd-shell
 
-Package: wsl-beep
-Version: 1.3-1
-Architecture: amd64
-Maintainer: Alistair Young <avatar@arkane-systems.net>
-Installed-Size: 11
-Conflicts: beep
-Replaces: beep
-Homepage: https://github.com/cerebrate/wsl-beep
-Priority: optional
-Section: sound
-Filename: pool/main/w/wsl-beep/wsl-beep_1.3-1_amd64.deb
-Size: 3160
-SHA256: 70d1fe585e61724c6a5e02a11849bf62e225eb1787066144c540b7da5a15207f
-SHA1: ca42e9390bfa4d8b3e1980ed711c3d6fb142805f
-MD5sum: fed25adb69d3bab7ac79b07e1e805fc8
-Description: Linux console beep for Windows Subsystem for Linux
- Implementation of beep(1) for WSL; calls PowerShell to do the actual beeping.
- .
- Ported to WSL by Mikael O. Bonnier.
-
