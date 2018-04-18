@@ -13,5 +13,6 @@ Now deprecated: Ubuntu _zesty_.
 | --- | --- | --- | --- |
 | **wabashd** | 6 | The Windows Services for Linux portion of the wabash session-keepalive system (mono). | https://github.com/cerebrate/wabashd |
 | **wabashd-shell** | 4.0.2 | The Windows Services for Linux portion of the wabash session-keepalive system (shell). | https://github.com/alternize/wabashd-shell |
+| **wsl-beep** | 1.3 | Linux console beep - beep(1) - for Windows Subsystem for Linux | https://github.com/mobluse/wsl-beep |
 
 **Note:** Not all packages are necessarily available for all distributions.
