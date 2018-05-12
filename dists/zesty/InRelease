@@ -3,37 +3,36 @@ Hash: SHA512
 
 Origin: ArkaneSystems
 Label: WSL Translinux
-Suite: stable
 Codename: zesty
-Date: Tue, 17 Apr 2018 07:15:23 UTC
+Date: Sat, 12 May 2018 06:47:33 UTC
 Architectures: amd64
 Components: main
 Description: WSL-specific packages hosted on cerebrate's github repository
 MD5Sum:
- 36925bf832bfd438c66269fbae790200 1161 main/binary-amd64/Packages
- c73f523de8c15d258fde5cceea3ff731 605 main/binary-amd64/Packages.gz
+ af35e431d73d954abdf59c0b0166271b 1867 main/binary-amd64/Packages
+ b8cd4c7c3189f4aba63c66292a1c88fe 922 main/binary-amd64/Packages.gz
  0a53db9e2f03b2fb9a814f88c001e0b3 171 main/binary-amd64/Release
 SHA1:
- ad98d0f683c642d9a6f22b7a340ba0da57fb83db 1161 main/binary-amd64/Packages
- cd60535045da563d6f30325ed8ad8d4777eeeda5 605 main/binary-amd64/Packages.gz
+ 110e476cb2c9ca113c966996ef4982f7be24c0b7 1867 main/binary-amd64/Packages
+ 52aa752930ed5e7f5dcd67f887ee81e8ecb0f235 922 main/binary-amd64/Packages.gz
  6af8ae36212f6c00e1af92896c1fa5cb17f29a87 171 main/binary-amd64/Release
 SHA256:
- d11c7988f057bac7df52f273b2f4c8a68671cde20f6236b041d130161fe6ee1e 1161 main/binary-amd64/Packages
- 154a8054fb3c5769a71484a5eb7ea2cde20aa3f1533155c1178f8380a24604bc 605 main/binary-amd64/Packages.gz
+ c8fcf1e7845ded8797301f04f3807130f1961f92209ab79e8425da3a166dd3f5 1867 main/binary-amd64/Packages
+ b052f0b45d085231ec9ac00c3180e932b29416e38cd206dff7bd025ba7782adf 922 main/binary-amd64/Packages.gz
  a7062671dceb3240b91a4e3564e410f660c472b5f24f5a8bbc8615a02007d377 171 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEUqDYCHdcc1xaP4B8zcGHoCQUmY8FAlrVnwsACgkQzcGHoCQU
-mY9+mxAAihAU5lZ+M7bwfLX1SiCErYhVM4HAN1Wp2gBUBcuSpZdTMtzjWbG1qC/e
-AsWrQsNTVBP69y25tatVX0gz1ou0OAt3v0FSFeXHP1af3/q6PNQ+nJXmmK2gflxn
-D+MEo35GiuCRO+jYY19mr1/JMHvydbmjJPDUIm0hXtKKXXi7/5Ixy9+8P4t73YNB
-BXYYm+Feyhg7UT8yj0JlQoUp5rkUaa6n8q5TtqC/pB7/46NRlFh8CEeDr95300Uk
-NCCqq9DSEsSSwyemanXfFE+oVcDD4d9lvyfYFFklJtfw8XZf37f1aAY11PvSioki
-xDqnu2hFV1KzyECbu9/KLDahQlQr3V71Rg1cnJaxciGyZ4NQV/8/eWpC0BU54vAE
-V7X6N7HoxF5PmRZlhG78eL9Iald13t5/qIe/rNPm7HjN4u2V6MfMXsdq6n8lj8mV
-yZXIVLGL+oN5NYjHZHT4SPsZeOGrhDaJ+2dYTJyt/I6z438/LWrA8QF6O7Oz5F0b
-wEL/lQMQ88ymoSmjTF0TbhhUu24RCBr16aZs95IojxkHlRkGBvW1XUvJF6LVYEJA
-4OdIkw5FZ5KS6haom64El5JLakDWOvm/sKN5+UpEF5taRn4HtPDzV9xE5kZCJcLB
-BulJEgRpwi6zjtFgOdD58BNA96wpwmwYmk+ESkZmV3hcpl5SE08=
-=v0bC
+iQIzBAEBCgAdFiEEUqDYCHdcc1xaP4B8zcGHoCQUmY8FAlr2jgUACgkQzcGHoCQU
+mY+k/RAAjs7AwM18kBJc0kCuGCKnjwhyULmVW6JvIUY/VOXtNxeC167s/fGNw3j1
+rB0JA7ooO/QMQ/PUE1PL+Y66AXnRhydhWEtrNarXcEY+MydC17QyQ+d6KqT2mfRF
+wvV7Dai/txTaxSqih6aDVb4xOpUr8MOafNscIvkeb1BDzBCuA1GnCfFqnrlmCSAq
+BH/IbHTB/bxqEsCF79sgnbfEBlKw73tTJ7f1WuheLqNOTOPw9tRUKFyZwYU9gOhF
+zXtS22jia3Xu2gKbFN9iKA+12DNwdJTXDxHsnV4+4Vcah6WWryPexhKfT+C/Xsqy
+XLkbOvGdQaUNh28rnP2miOHtv/PT7v56x7qpG3HW8PFoPXangi9Nt6V4TMI3U45O
+kDxma8faZOVGriBd7nGQ3B8vzIuHh5D/cwklCn8TH5gE41ao6WcH2Tsww2XapaDG
+9GGDCz1LzKVveGAN5xepKfsQq2sN7BSn/vQq731K77twEzCI2gp3CNeW5AY6NjAx
+tH4qFyuxd9M3pkJffALsvfMS7NfzFl2LRRjEluOGZF7MbK7eS8RUhzNvXYfNONCv
+7F69B8J0rJ5iIPdS8WfGOwm65ZPRO/cF4pzZSs06UTdvhCbg3GkHScMTzDSzTefo
+746hAEAd9DripdmN7Q4l3V8h2X/bpkCPa/k0e2RDZdjwQWakn/g=
+=dfDd
 -----END PGP SIGNATURE-----
